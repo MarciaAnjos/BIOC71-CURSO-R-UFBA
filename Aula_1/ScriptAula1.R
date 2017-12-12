@@ -7,11 +7,11 @@
 #####################################################
 
 #####Usando o R como calculadora#####
-##entrando no R
+##entrando R no
 
 #Digite no R os códigos abaixo.
 #Dica: escreva neste arquivo, ao lado do comando, o que ele faz,
-#como no exemplo abaixo
+#como exemplo abaixo no
 
 1 + 1 #soma os valores
 
